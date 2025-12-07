@@ -1,2 +1,1 @@
-# SBCGS_Physics-Society
-SBCGS Physics Society
+# SBCGS_Physics Society
